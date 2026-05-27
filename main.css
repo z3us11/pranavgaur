@@ -97,7 +97,7 @@ header p {
 /* NAVIGATION TABS */
 .tabs-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 15px;
     margin-bottom: 40px;
